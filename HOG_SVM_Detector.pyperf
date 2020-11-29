@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>622eefbd-2190-4d5f-9b15-617467699bd5</TargetProject>
+    <FriendlyName>HOG_SVM_Detector</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>K:\temp\HOG_SVM_Detector_20200129.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
